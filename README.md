@@ -1,3 +1,6 @@
 # BTMA417OilPricesANDMentalHealth
 
-Code avaliable to any with the exception of U of C students to their use of my code causing them an academic misconduct.
+An R project relating the price of crude oil in alberta to albertians search terms (to understand whether oil prices are correlated with Albertans searching negative terms).
+
+
+Code avaliable to any with the exception of U of C students. I am not responsible for your academic misconduct if you re-use my code.
